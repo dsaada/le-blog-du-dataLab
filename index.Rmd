@@ -1,0 +1,5 @@
+---
+title: "Le journal de l'IA"
+site: radix::radix_website
+listing: posts
+---

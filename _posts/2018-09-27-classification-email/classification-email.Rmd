@@ -1,0 +1,28 @@
+---
+title: "Classification des emails"
+description: |
+  Comment l'utilisation du deep learning a révolutioner le traitement des emails par les téléconseillers!
+author:
+  - name: David Saada 
+    url: https://www.linkedin.com/in/david-saada-b8425438/
+    affiliation: DataLab
+date: 2018-09-27
+preview: mail.jpg
+output:
+  radix::radix_article:
+    self_contained: false
+categories:
+  - Mail
+  - IA
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Radix at:
+# https://rstudio.github.io/radix/blog.html
+
+```
+
+
+

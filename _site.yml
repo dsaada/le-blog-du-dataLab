@@ -1,0 +1,22 @@
+name: "le-blog-du-dataLab"
+title: "Le blog du DataLab"
+description: |
+  My Blog
+output_dir: "docs"
+navbar:
+  logo: images/logo.png
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+creative_commons: CC BY
+base_url: https://dsaada.github.io/blog/
+google_analytics: "UA-130579854-1"
+collections:
+  posts:
+    disqus: le-blog-du-dataLab-blog
+    share: [twitter, linkedin, facebook, google-plus, pintrest]
+    citations: false
+output: radix::radix_article
+

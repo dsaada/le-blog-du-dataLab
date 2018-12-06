@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Le blog du DataLab</title>
+    <link>https://dsaada.github.io/blog/</link>
+    <atom:link href="https://dsaada.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+    <description>My Blog
+</description>
+    <generator>Radix</generator>
+    <lastBuildDate>jeu., 27 sept. 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Classification des emails</title>
+      <dc:creator>David Saada</dc:creator>
+      <link>https://dsaada.github.io/blog/posts/2018-09-27-classification-email</link>
+      <description>Comment l'utilisation du deep learning a révolutioner le traitement des emails par les téléconseillers!</description>
+      <guid>https://dsaada.github.io/blog/posts/2018-09-27-classification-email</guid>
+      <pubDate>jeu., 27 sept. 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://dsaada.github.io/blog/posts/2018-09-27-classification-email/mail.jpg" medium="image" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "posts/2018-09-27-classification-email/",
+    "title": "Classification des emails",
+    "description": "Comment l'utilisation du deep learning a révolutioner le traitement des emails par les téléconseillers!",
+    "author": [
+      {
+        "name": "David Saada",
+        "url": "https://www.linkedin.com/in/david-saada-b8425438/"
+      }
+    ],
+    "date": "2018-09-27",
+    "categories": [
+      "Mail",
+      "IA"
+    ],
+    "preview": "posts/2018-09-27-classification-email/mail.jpg",
+    "last_modified": "2018-12-06T23:36:38+01:00"
+  }
+]
