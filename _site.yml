@@ -15,7 +15,7 @@ base_url: https://dsaada.github.io/blog/
 google_analytics: "UA-130579854-1"
 collections:
   posts:
-    disqus: le-blog-du-dataLab-blog
+    disqus: le-blog-du-dataLab
     share: [twitter, linkedin, facebook, google-plus, pintrest]
     citations: false
 output: radix::radix_article
